@@ -1,0 +1,11 @@
+site_name: Processo di Handover
+repo_url: http://git.gbm.lan:8080/devops/processo-handover
+pages:
+- Home: index.md
+
+markdown_extensions:
+  - footnotes
+
+theme: readthedocs
+
+
